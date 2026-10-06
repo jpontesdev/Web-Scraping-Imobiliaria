@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# IDEs / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs do geckodriver (Selenium/Firefox)
+geckodriver.log

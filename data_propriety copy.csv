@@ -1,0 +1,276 @@
+id,Price,neighborhood,m2,quartos,banheiros,vagas
+1,5200.0,Vila Olímpia,67.0,1,2,1
+3,4100.0,Pompeia,38.0,1,1,0
+4,5950.0,Jardim Paulista,130.0,1,2,1
+6,2231.0,Jardim Paulista,35.0,1,1,1
+7,1460.0,Penha de França,28.0,1,1,0
+8,7000.0,Lauzane Paulista,110.0,1,2,2
+10,2210.0,Belenzinho,54.0,2,1,1
+12,2595.0,Tucuruvi,125.0,3,2,1
+13,2750.0,Vila Formosa,54.0,2,1,1
+14,5000.0,Vila Olímpia,119.0,1,2,1
+15,1500.0,Sé,46.0,1,1,0
+16,2184.0,Vila Invernada,38.0,2,1,1
+17,2320.0,Carandiru,40.0,2,1,1
+18,2410.0,Vila Mariana,35.0,1,1,0
+19,5270.0,Morumbi,140.0,1,4,2
+20,6000.0,Vila Olímpia,73.0,1,3,0
+21,2190.0,Cidade Líder,60.0,2,1,0
+22,2300.0,Vila da Saúde,23.0,1,1,0
+23,2640.0,Pompeia,25.0,1,1,0
+24,3000.0,Fazenda Morumbi,61.0,1,2,1
+25,1324.0,Alto da Mooca,28.0,1,1,0
+26,3200.0,Várzea da Barra Funda,44.0,2,1,0
+27,1700.0,Luz,28.0,1,1,0
+28,2200.0,Vila Andrade,38.0,2,1,0
+29,4000.0,Vila Prudente,77.0,1,2,2
+30,2800.0,Tatuapé,36.0,2,1,0
+31,1740.0,Lapa,26.0,1,1,0
+32,1280.0,Cidade São Mateus,42.0,1,1,1
+33,1030.0,Parque São Lourenço,30.0,2,1,0
+34,2100.0,Butantã,31.0,1,1,0
+35,3180.0,Santana,75.0,3,1,1
+36,1724.0,Santo Amaro,30.0,1,1,0
+37,1803.0,Jardim Guayana,52.0,2,1,1
+38,2450.0,Saúde,35.0,1,1,1
+39,3340.0,Jardim das Acacias,34.0,1,1,0
+40,1151.0,Itaquera,52.0,2,1,1
+41,1250.0,Vila Ré,35.0,1,1,0
+42,1920.0,Liberdade,38.0,2,1,0
+43,1700.0,Vila Suzana,34.0,1,1,1
+44,1950.0,Cidade Patriarca,36.0,2,1,0
+45,2800.0,Vila Guarani (z Sul),27.0,1,1,0
+46,2305.0,Vila Alpina,64.0,3,1,1
+47,2200.0,Socorro,76.0,3,1,1
+48,1300.0,Jardim Marília,50.0,2,1,0
+49,1300.0,Jardim Helian,44.0,2,1,0
+50,2924.0,Vila Gomes Cardim,50.0,1,1,1
+51,1950.0,Ipiranga,46.0,1,1,1
+52,1720.0,Vila Ema,50.0,2,1,0
+53,2350.0,Parada Inglesa,36.0,1,1,0
+54,1350.0,Vila Arcadia,25.0,1,1,0
+55,3000.0,Chácara Inglesa,45.0,1,1,1
+56,3700.0,Lapa,65.0,1,2,1
+57,1000.0,Colônia (zona Leste),43.0,2,1,0
+58,3450.0,Vila Formosa,130.0,1,3,4
+59,1550.0,Belenzinho,24.0,1,1,0
+60,1290.0,Conjunto Residencial José Bonifácio,39.0,2,1,0
+61,2950.0,Jardim Paulista,36.0,1,1,1
+62,5500.0,Ipiranga,67.0,1,1,1
+63,1760.0,Cidade Mãe do Céu,34.0,2,1,0
+65,2300.0,Vila Andrade,41.0,2,1,0
+66,1800.0,Vila Gomes Cardim,60.0,2,1,0
+67,2500.0,Jardim Paulista,36.0,1,1,1
+68,2300.0,Perdizes,24.0,1,1,0
+69,1350.0,Penha de França,29.0,1,1,0
+70,2300.0,Mooca,34.0,2,1,0
+71,1309.0,Jardim América da Penha,47.0,2,1,1
+72,1300.0,Vila Nivi,25.0,1,1,0
+73,1820.0,Vila Formosa,40.0,1,1,0
+74,1500.0,Penha de França,34.0,2,1,0
+75,2500.0,Penha de França,37.0,1,1,1
+76,1840.0,Água Branca,27.0,1,1,0
+77,2300.0,Água Branca,24.0,1,1,0
+78,1195.0,Vila Nivi,23.0,1,1,0
+79,1900.0,Jardim Prudência,26.0,1,1,0
+80,2279.0,Belenzinho,37.0,2,1,0
+81,2998.0,Pinheiros,29.0,1,1,0
+82,2050.0,Jardim Oriental,28.0,1,1,0
+83,2800.0,Jardim Monte Kemel,74.0,1,2,2
+84,1690.0,Vila Pauliceia,26.0,1,1,0
+85,1949.0,Jardim Sao Paulo(zona Norte),40.0,1,1,0
+86,5250.0,Vila da Saúde,67.0,1,2,2
+87,2195.0,Jurubatuba,34.0,1,1,0
+88,1524.0,Penha de França,34.0,1,1,1
+89,3000.0,Chácara Califórnia,67.0,1,2,1
+90,3600.0,Jardim Ampliação,127.0,1,4,2
+91,5500.0,Vila da Saúde,101.0,1,4,2
+92,7500.0,Itaim Bibi,75.0,1,2,2
+93,1600.0,Vila Maria Alta,35.0,1,1,0
+94,3000.0,Santana,65.0,3,2,1
+95,1750.0,Vila Gustavo,40.0,2,1,0
+96,1800.0,Vila Clarice,49.0,2,1,1
+97,1600.0,Vila Ema,38.0,2,1,0
+98,2100.0,Vila Nova Cachoeirinha,62.0,2,1,1
+99,1470.0,Sacomã,33.0,2,1,0
+100,6500.0,Perdizes,92.0,1,2,2
+101,1550.0,Penha de França,36.0,1,1,0
+102,1620.0,Parque Ipe,45.0,2,1,1
+103,4500.0,Vila Dom Pedro I,56.0,1,2,1
+104,1500.0,Vila Alpina,35.0,1,1,0
+105,990.0,Subprefeitura de Ermelino Matarazzo,30.0,2,1,0
+106,3100.0,Vila Buarque,72.0,2,1,0
+107,4250.0,Pinheiros,45.0,1,1,1
+108,6000.0,Água Branca,120.0,1,2,2
+109,2590.0,Parque Reboucas,48.0,2,1,1
+110,3300.0,Ipiranga,37.0,2,1,0
+111,3150.0,Vila Pompéia,41.0,1,1,1
+112,2600.0,Vila Butantã,25.0,1,1,0
+113,1620.0,Vila Carrão,48.0,2,1,0
+114,4180.0,Santo Amaro,49.0,2,1,1
+115,4450.0,Tatuapé,47.0,1,1,1
+116,2500.0,Jardim Prudência,33.0,1,1,0
+117,1900.0,Vila Granada,36.0,2,1,0
+118,3000.0,Vila Gomes,37.0,2,1,1
+119,6268.0,Consolação,72.0,1,3,2
+120,1700.0,Jardim Umuarama,52.0,2,1,1
+121,7000.0,Bela Vista,76.0,2,2,1
+122,1550.0,Casa Verde,47.0,1,1,0
+123,5990.0,Vila Nova Conceição,64.0,1,1,1
+124,1900.0,Vila Alpina,48.0,2,1,0
+125,3400.0,Pinheiros,50.0,1,1,1
+126,2260.0,Santana,35.0,1,1,0
+127,1400.0,Vila Antonina,38.0,1,1,0
+128,2392.0,Jardim Caboré,50.0,2,1,1
+129,2000.0,Jardim São Luís,38.0,2,1,0
+130,2300.0,Bela Vista,40.0,1,1,0
+131,1985.0,Limão,40.0,2,1,0
+132,9450.0,Campo Belo,192.0,1,4,2
+133,3310.0,Vila Nova Conceição,26.0,1,1,0
+134,3100.0,Pompeia,38.0,1,1,1
+136,1450.0,Vila Sao Geraldo,35.0,2,1,0
+137,2480.0,Santana,33.0,1,1,0
+138,2000.0,Vila Monte Alegre,37.0,1,1,0
+140,2800.0,Vila Andrade,40.0,2,1,0
+141,1420.0,Vila Jaraguá,37.0,1,1,0
+142,1420.0,Vila Jacuí,55.0,2,1,0
+143,7450.0,Campo Belo,102.0,2,3,2
+144,1570.0,Itaim Paulista,45.0,2,1,1
+145,3200.0,Vila Guarani,63.0,1,2,2
+146,2290.0,Jardim Caravelas,27.0,1,1,0
+147,2300.0,São Miguel Paulista,42.0,2,1,1
+148,2500.0,Vila Bela,49.0,2,1,0
+149,4000.0,Alto de Pinheiros,89.0,3,1,1
+150,1290.0,Jardim Prudência,40.0,2,1,0
+151,3720.0,Itaim Bibi,42.0,1,1,1
+152,2080.0,Várzea da Barra Funda,34.0,2,1,0
+153,2720.0,Vila Mariana,42.0,1,1,0
+154,1200.0,Jardim Sao Paulo(zona Leste),58.0,3,1,1
+155,2100.0,Vila Germinal,45.0,2,1,1
+156,1400.0,Parque Fongaro,32.0,2,1,0
+157,1680.0,Parque Císper,54.0,2,1,1
+158,3750.0,Vila Mariana,41.0,1,2,1
+159,2950.0,Jaguaré,46.0,1,2,1
+160,2300.0,Parque Arariba,41.0,2,1,1
+161,2840.0,Aclimação,59.0,1,1,1
+162,2110.0,Higienópolis,25.0,1,1,0
+163,2800.0,Vila Universitaria,70.0,2,1,1
+164,3500.0,Bosque da Saúde,110.0,2,3,3
+165,2050.0,Vila Regente Feijó,40.0,2,1,1
+166,1300.0,Chácara Mafalda,39.0,1,1,0
+167,1757.0,Vila Tolstoi,28.0,1,1,0
+168,1627.0,Parque da Mooca,30.0,1,1,0
+169,1600.0,Jardim Sabara,26.0,1,1,0
+170,1917.0,Bosque da Saúde,36.0,1,1,1
+171,1440.0,Guaianases,34.0,2,1,0
+172,1750.0,Moinho Velho,32.0,2,1,0
+173,2520.0,Vila da Saúde,30.0,1,1,0
+174,2896.0,Indianópolis,31.0,1,1,0
+175,2150.0,Brooklin Paulista,37.0,1,1,0
+176,1600.0,Brás,27.0,1,1,0
+177,2340.0,Bela Vista,32.0,1,1,0
+178,2496.0,Quarta Parada,38.0,2,1,0
+179,1800.0,Belém,33.0,1,1,0
+181,1350.0,Jardim Adutora,38.0,2,1,0
+182,3090.0,Pinheiros,56.0,2,1,2
+183,1070.0,Vila Nova Parada,33.0,2,1,0
+184,5900.0,Pinheiros,57.0,1,1,1
+185,5660.0,Pinheiros,46.0,2,1,1
+186,2399.0,Barra Funda,35.0,1,1,0
+187,1750.0,Penha de França,32.0,1,1,1
+188,2800.0,Jardim Paulista,25.0,1,1,0
+189,3100.0,Tatuapé,60.0,1,2,1
+190,1660.0,Jardim São Luís,34.0,2,1,0
+191,2958.0,Vila Prudente,65.0,1,2,1
+192,1600.0,Vila das Belezas,27.0,1,1,0
+193,2700.0,Parque Reboucas,50.0,2,1,1
+194,1170.0,Cidade São Mateus,35.0,2,1,0
+195,5977.0,Vila Andrade,109.0,2,3,2
+196,2480.0,Consolação,50.0,1,1,1
+197,1071.0,Jardim Santa Adelia,35.0,2,1,0
+198,1165.0,Cidade Centenário,36.0,2,1,0
+199,3000.0,Saúde,48.0,1,1,1
+200,7300.0,Pinheiros,86.0,1,2,0
+201,3300.0,Cambuci,50.0,1,2,1
+202,1316.0,Jardim Belém,45.0,2,1,0
+203,5000.0,Pinheiros,60.0,1,2,1
+204,1890.0,Vila Santa Clara,45.0,2,1,0
+205,1090.0,Jardim Esmeralda,55.0,2,1,1
+206,960.0,Jardim Miriam,60.0,2,1,1
+207,2250.0,Santana,35.0,1,2,0
+208,890.0,Cidade Satelite Santa Barbara,24.0,1,1,0
+209,6500.0,Jardim Analia Franco,109.0,1,3,2
+210,2680.0,Vila Leopoldina,36.0,2,1,0
+211,1600.0,Cidade Antônio Estêvão de Carvalho,43.0,2,1,0
+212,1600.0,Jardim Ana Maria,34.0,1,1,1
+213,2000.0,Vila Curuçá,69.0,2,1,0
+214,790.0,Colônia (zona Leste),32.0,2,1,0
+215,2572.0,Bela Vista,50.0,1,1,0
+216,1650.0,Vila Santana,70.0,2,1,0
+217,3700.0,Vila Romana,51.0,1,2,1
+218,3960.0,Jardim Paulista,80.0,2,1,0
+219,5300.0,Consolação,78.0,2,1,0
+220,1530.0,Vila Carrão,40.0,1,1,0
+221,1800.0,Parque Peruche,45.0,2,1,0
+222,1000.0,Parque Sao Rafael,32.0,2,1,0
+223,1740.0,Chora Menino,40.0,2,1,0
+224,3700.0,Itaim Bibi,32.0,1,1,1
+225,1838.0,Jardim Celeste,47.0,2,1,1
+226,2782.0,Chácara Santo Antônio,76.0,2,2,1
+227,2240.0,Santo Amaro,27.0,1,1,0
+228,1400.0,Jardim Japao,38.0,1,1,0
+229,2303.0,Mooca,49.0,2,1,1
+230,2250.0,Belenzinho,46.0,2,1,0
+231,2100.0,Planalto Paulista,29.0,1,1,0
+232,1600.0,Vila Pirituba,40.0,2,1,0
+233,2100.0,Belenzinho,31.0,1,1,0
+234,2230.0,Jardim Paulista,45.0,1,1,1
+235,3988.0,Vila Bertioga,54.0,1,1,1
+236,5247.0,Indianópolis,42.0,1,1,1
+237,1780.0,Vila Picinin,50.0,2,1,1
+238,4500.0,Tatuapé,48.0,1,1,1
+239,2507.0,Tatuapé,55.0,1,1,1
+240,3130.0,Sumaré,30.0,1,1,0
+241,3890.0,Quarta Parada,50.0,1,1,0
+242,3400.0,Vila Clementino,35.0,1,1,0
+243,2350.0,Água Branca,27.0,1,1,0
+244,3280.0,Pinheiros,30.0,1,1,0
+245,4000.0,Vila Mariana,72.0,1,2,2
+246,1800.0,Vila Socorro,36.0,2,1,0
+247,3500.0,Vila Mascote,104.0,1,2,2
+248,2800.0,Belenzinho,30.0,1,1,1
+249,2000.0,Nossa Senhora do O,86.0,2,1,1
+251,5660.0,Vila Mariana,134.0,1,2,1
+252,2000.0,Vila Gustavo,30.0,1,1,0
+253,5720.0,Jardim Paulista,45.0,1,1,1
+254,3580.0,Quarta Parada,50.0,2,1,0
+255,1000.0,Vila Nova Curuçá,32.0,2,1,0
+256,2000.0,Jaguaré,34.0,2,1,0
+258,9000.0,Jardim Vila Mariana,143.0,3,5,2
+259,1650.0,Parque Savoy City,57.0,3,1,1
+260,1750.0,Jardim Jaqueline,55.0,2,1,1
+261,3500.0,Vila Guarani (zona Sul),57.0,1,2,1
+262,2000.0,Jardim Santa Teresinha,65.0,3,1,1
+263,3850.0,Santo Amaro,64.0,1,2,1
+264,5000.0,Vila Gertrudes,71.0,3,1,2
+265,1650.0,Vila Santa Catarina,58.0,3,1,3
+266,1520.0,Vila Sao Nicolau,35.0,2,1,0
+267,1820.0,Lauzane Paulista,30.0,1,1,0
+268,1510.0,Socorro,35.0,2,1,0
+269,2300.0,Brás,40.0,2,1,0
+270,2330.0,Vila Albertina,36.0,2,1,0
+271,1418.0,Instituto de Previdência,30.0,1,1,0
+272,4990.0,Jardim das Acacias,41.0,1,1,1
+273,5000.0,Itaim Bibi,40.0,1,1,1
+274,1500.0,Vila Alpina,28.0,1,1,0
+275,1600.0,Pirituba,35.0,1,1,0
+276,2900.0,Santana,52.0,1,1,0
+277,4320.0,Vila Anglo Brasileira,65.0,1,2,1
+278,2450.0,Alto da Lapa,70.0,2,1,1
+279,2900.0,Aclimação,89.0,2,1,1
+280,6615.0,Pinheiros,38.0,1,1,1
+281,2000.0,Vila Esperança,46.0,2,1,0
+282,4500.0,Quarta Parada,66.0,1,2,1
+283,3000.0,Mooca,37.0,2,1,0
+284,1900.0,Brás,33.0,1,1,1
+285,2398.0,Sumarezinho,25.0,1,1,0
